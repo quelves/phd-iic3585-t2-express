@@ -8,6 +8,9 @@ En express, un motor de plantillas le permite utilizar archivos de plantillas es
 
 Pug es un motor de plantillas de alto rendimiento fuertemente influenciado por Haml e implementado con el JavaScript para Node.js y navegadores. Este proyecto era conocido anteriormente como "Jade", pero "Jade" es una marca registrada y el proyecto cambió de nombre. La próxima versión principal llevará a "pug", como el nombre del paquete.
 
+## Live Demo
+https://phd-3585-t2-express.herokuapp.com/
+
 ## Language References ##
 
 Pug posee una serie de comandos para soportar la creacion de plantillas, con opciones para extender otras plantillas asi como incluir otras plantillas para componer un layout, asi como funciones para el control de flujo y estado.
@@ -376,6 +379,7 @@ Probar plantilla
 ```javascript
 http://localhost:3000/
 ```
+
 
 
 
